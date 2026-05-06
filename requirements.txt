@@ -1,0 +1,12 @@
+streamlit
+sqlalchemy
+pymysql
+psycopg2-binary
+python-dotenv
+pandas
+sqlglot
+plotly
+openpyxl
+langchain
+langchain-groq
+streamlit-mic-recorder
